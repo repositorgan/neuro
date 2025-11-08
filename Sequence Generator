@@ -1,0 +1,16 @@
+# Fibonacci sequence generator in Python
+def fibonacci(n):
+    """
+    Generate a list containing the Fibonacci sequence up to n numbers.
+    :param n: int - Number of Fibonacci numbers to generate
+    :return: list - A list containing the Fibonacci sequence
+    """
+    sequence = []
+    a, b = 0, 1
+    for _ in range(n):
+        sequence.append(a)  # Append the current number to the sequence
+        a, b = b, a + b     # Update values of a and b
+    return sequence
+
+# Example usage
+print("Fibonacci 10:", fibonacci(10))
