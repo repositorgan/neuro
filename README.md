@@ -1,3 +1,15 @@
-Extension of my education. Building proficiency with CRM for workforce application.
-Resume supplement to track technical development.
-AI + CRM + Experience
+## Learning
+
+**Purpose**
+
+> Transparent learning opportunity
+
+> Deepen language understanding
+
+> Provide evidence with project based learning
+
+_https://learn.microsoft.com/en-us/users/andrewkieckhefer/_
+
+**Content**
+
+> Origin from best-repo-ever
